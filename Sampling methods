@@ -19,29 +19,29 @@ Amplicon libraries for Illumina sequencing were prepared on a 2-step PCR using t
 
 1st PCR profile:
 _____________________
-95oC	  2 minites	   |
-                     |
-33 cycles of:        |
-95oC	  15 seconds	 |
-55oC	  15 seconds   |
-72oC	  40 seconds   |
-                     |
-72oC	  4 minutes    |
-4oC	    ∞	           |
-_____________________|
+95oC	  2 minites
+
+33 cycles of:
+95oC	  15 seconds
+55oC	  15 seconds
+72oC	  40 seconds
+
+72oC	  4 minutes
+4oC	    ∞
+_____________________
 
 2nd PCR profile
 _____________________
-98oC	  2 minites	   |
-                     |
-13 cycles of:        |
-98oC	  10 seconds	 |
-55oC	  20 seconds   |
-72oC	  40 seconds   |
-                     |
-72oC	  5 minutes    |
-4oC	    ∞	           |
-_____________________|
+98oC	  2 minites
+
+13 cycles of:
+98oC	  10 seconds
+55oC	  20 seconds
+72oC	  40 seconds
+
+72oC	  5 minutes
+4oC	    ∞
+_____________________
 
 At each step, the samples were run on a 1% Agarose Gel to verify successful amplification and evaluate the presence of primer-dimers. The samples were pooled equimolarly and the pool was run on a Tapestation 4150 (Agilent Technologies) using the D1000 tape and reagents. The pool was run on an Illumina MiSeq using the 500 cycles v2 chemistry.
 
