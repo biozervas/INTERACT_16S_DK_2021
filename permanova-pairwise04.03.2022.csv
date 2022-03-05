@@ -1,0 +1,67 @@
+Group 1,Group 2,Sample size,Permutations,pseudo-F,p-value,q-value
+bulk soil_Heerup,bulk soil_Kvium,20,999,1.590827097,0.005,0.0066
+bulk soil_Heerup,bulk soil_Rembrandt,20,999,1.611296407,0.002,0.002933333
+bulk soil_Heerup,bulk soil_Sheriff,20,999,1.138469082,0.106,0.11283871
+bulk soil_Heerup,rhizoplane_Heerup,20,999,5.603876409,0.001,0.00165
+bulk soil_Heerup,rhizoplane_Kvium,20,999,4.323667309,0.001,0.00165
+bulk soil_Heerup,rhizoplane_Rembrandt,20,999,6.347158477,0.001,0.00165
+bulk soil_Heerup,rhizoplane_Sheriff,20,999,8.190870142,0.001,0.00165
+bulk soil_Heerup,rhizosphere_Heerup,20,999,9.244351289,0.001,0.00165
+bulk soil_Heerup,rhizosphere_Kvium,20,999,5.901173298,0.001,0.00165
+bulk soil_Heerup,rhizosphere_Rembrandt,20,999,8.360773957,0.001,0.00165
+bulk soil_Heerup,rhizosphere_Sheriff,20,999,9.688008829,0.001,0.00165
+bulk soil_Kvium,bulk soil_Rembrandt,20,999,1.413985751,0.011,0.0132
+bulk soil_Kvium,bulk soil_Sheriff,20,999,1.422498032,0.01,0.012222222
+bulk soil_Kvium,rhizoplane_Heerup,20,999,6.590069806,0.001,0.00165
+bulk soil_Kvium,rhizoplane_Kvium,20,999,4.608931718,0.001,0.00165
+bulk soil_Kvium,rhizoplane_Rembrandt,20,999,7.245001664,0.001,0.00165
+bulk soil_Kvium,rhizoplane_Sheriff,20,999,9.461442071,0.001,0.00165
+bulk soil_Kvium,rhizosphere_Heerup,20,999,11.011062,0.001,0.00165
+bulk soil_Kvium,rhizosphere_Kvium,20,999,6.266299776,0.001,0.00165
+bulk soil_Kvium,rhizosphere_Rembrandt,20,999,9.553954224,0.001,0.00165
+bulk soil_Kvium,rhizosphere_Sheriff,20,999,11.19991325,0.001,0.00165
+bulk soil_Rembrandt,bulk soil_Sheriff,20,999,1.524159108,0.002,0.002933333
+bulk soil_Rembrandt,rhizoplane_Heerup,20,999,5.351645323,0.001,0.00165
+bulk soil_Rembrandt,rhizoplane_Kvium,20,999,4.031546388,0.001,0.00165
+bulk soil_Rembrandt,rhizoplane_Rembrandt,20,999,5.512949171,0.001,0.00165
+bulk soil_Rembrandt,rhizoplane_Sheriff,20,999,7.856731338,0.001,0.00165
+bulk soil_Rembrandt,rhizosphere_Heerup,20,999,9.042724289,0.001,0.00165
+bulk soil_Rembrandt,rhizosphere_Kvium,20,999,5.423868835,0.001,0.00165
+bulk soil_Rembrandt,rhizosphere_Rembrandt,20,999,7.455964056,0.001,0.00165
+bulk soil_Rembrandt,rhizosphere_Sheriff,20,999,9.408321848,0.001,0.00165
+bulk soil_Sheriff,rhizoplane_Heerup,20,999,5.529438969,0.001,0.00165
+bulk soil_Sheriff,rhizoplane_Kvium,20,999,4.333724521,0.001,0.00165
+bulk soil_Sheriff,rhizoplane_Rembrandt,20,999,6.374713721,0.001,0.00165
+bulk soil_Sheriff,rhizoplane_Sheriff,20,999,8.045229844,0.001,0.00165
+bulk soil_Sheriff,rhizosphere_Heerup,20,999,9.144371664,0.001,0.00165
+bulk soil_Sheriff,rhizosphere_Kvium,20,999,5.774569161,0.001,0.00165
+bulk soil_Sheriff,rhizosphere_Rembrandt,20,999,8.1951105,0.001,0.00165
+bulk soil_Sheriff,rhizosphere_Sheriff,20,999,9.336537605,0.001,0.00165
+rhizoplane_Heerup,rhizoplane_Kvium,20,999,1.52785499,0.008,0.009962264
+rhizoplane_Heerup,rhizoplane_Rembrandt,20,999,1.232269537,0.069,0.074655738
+rhizoplane_Heerup,rhizoplane_Sheriff,20,999,1.348165797,0.017,0.019344828
+rhizoplane_Heerup,rhizosphere_Heerup,20,999,1.040154166,0.376,0.393904762
+rhizoplane_Heerup,rhizosphere_Kvium,20,999,1.527212356,0.004,0.005617021
+rhizoplane_Heerup,rhizosphere_Rembrandt,20,999,1.306113976,0.015,0.017368421
+rhizoplane_Heerup,rhizosphere_Sheriff,20,999,1.520528846,0.005,0.0066
+rhizoplane_Kvium,rhizoplane_Rembrandt,20,999,1.536987603,0.013,0.015321429
+rhizoplane_Kvium,rhizoplane_Sheriff,20,999,2.248994866,0.001,0.00165
+rhizoplane_Kvium,rhizosphere_Heerup,20,999,2.835373158,0.001,0.00165
+rhizoplane_Kvium,rhizosphere_Kvium,20,999,0.94507124,0.565,0.58265625
+rhizoplane_Kvium,rhizosphere_Rembrandt,20,999,2.311699649,0.001,0.00165
+rhizoplane_Kvium,rhizosphere_Sheriff,20,999,2.812531013,0.001,0.00165
+rhizoplane_Rembrandt,rhizoplane_Sheriff,20,999,1.50110567,0.018,0.020135593
+rhizoplane_Rembrandt,rhizosphere_Heerup,20,999,2.206142937,0.001,0.00165
+rhizoplane_Rembrandt,rhizosphere_Kvium,20,999,1.745635854,0.006,0.007764706
+rhizoplane_Rembrandt,rhizosphere_Rembrandt,20,999,0.859663222,0.688,0.698584615
+rhizoplane_Rembrandt,rhizosphere_Sheriff,20,999,2.16909559,0.001,0.00165
+rhizoplane_Sheriff,rhizosphere_Heerup,20,999,1.707144046,0.001,0.00165
+rhizoplane_Sheriff,rhizosphere_Kvium,20,999,2.140368525,0.003,0.004304348
+rhizoplane_Sheriff,rhizosphere_Rembrandt,20,999,1.543624812,0.002,0.002933333
+rhizoplane_Sheriff,rhizosphere_Sheriff,20,999,0.790822699,0.824,0.824
+rhizosphere_Heerup,rhizosphere_Kvium,20,999,2.025909235,0.001,0.00165
+rhizosphere_Heerup,rhizosphere_Rembrandt,20,999,1.490642991,0.008,0.009962264
+rhizosphere_Heerup,rhizosphere_Sheriff,20,999,1.321623321,0.043,0.0473
+rhizosphere_Kvium,rhizosphere_Rembrandt,20,999,1.777549302,0.002,0.002933333
+rhizosphere_Kvium,rhizosphere_Sheriff,20,999,2.151183065,0.002,0.002933333
+rhizosphere_Rembrandt,rhizosphere_Sheriff,20,999,1.648844766,0.005,0.0066
